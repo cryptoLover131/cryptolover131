@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub Contribution Snake
@@ -15,7 +15,8 @@ jobs:
           github_user_name: cryptolover131
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push to GitHub Pages
+
+      - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
