@@ -35,8 +35,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/cryptolover131/cryptolover131/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptolover131&theme=github-dark&hide_border=true" />
 </p>
