@@ -12,7 +12,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,foundry,rust,anchor,solana,ethereum,javascript,typescript,nodejs,react,nextjs,tailwind,python,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,javascript,typescript,nodejs,react,nextjs,tailwind,mongodb,docker" />
 </p>
 
 ---
@@ -29,9 +29,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptolover131&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptolover131&theme=github-dark&hide_border=false" />
 </p>
 
 ---
