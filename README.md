@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm a Blockchain Developer 👨‍💻</h1>
 
-<!--
-**cryptoLover131/cryptolover131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I specialize in building scalable and secure decentralized applications.
+  <br>
+  <br>
+  🦄 DeFi • 🧠 AI + Crypto • ⚙️ Smart Contracts • 🔁 Cross-Chain • ⚡ Real-Time Bots
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,foundry,rust,anchor,solana,ethereum,javascript,typescript,nodejs,react,nextjs,tailwind,python,mongodb,postgresql" />
+</p>
+
+---
+
+### 🧩 Recent Projects
+
+- 🔹 **Onchain Games & DEXs** – Real-time token trading engines (Uniswap, PancakeSwap forks)
+- 🔹 **Staking Platforms** – Flexible, locked, and boosted staking contracts with governance integration
+- 🔹 **Sniper Bots & Bridge Tools** – Jito/Solana bundle bots, sandwich protection, custom routing
+- 🔹 **AI Integration** – LLM + blockchain hybrid apps with inference-based token rewards
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=false" />
+</p>
+
+---
+
+### 🌐 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
