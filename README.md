@@ -26,12 +26,12 @@
 
 ### 🧩 Recent Projects
 
-- 🔹 **ICO Page Websites** – Token launch pages with presale, claim system, vesting logic, and live stats  
-- 🔹 **Cross-Chain Bridges** – Secure asset transfer across EVM chains and Solana, with liquidity pooling and swap fees  
-- 🔹 **Onchain Games & DEXs** – Real-time token trading engines (Uniswap, PancakeSwap forks)  
-- 🔹 **Staking Platforms** – Flexible, locked, and boosted staking contracts with governance integration  
-- 🔹 **Sniper Bots & Bridge Tools** – Jito/Solana bundle bots, sandwich protection, custom routing  
-- 🔹 **AI Integration** – LLM + blockchain hybrid apps with inference-based token rewards  
+🔹 **ICO Page Websites** – Token launch pages with presale, claim system, vesting logic, and live stats  
+🔹 **Cross-Chain Bridges** – Secure asset transfer across EVM chains and Solana, with liquidity pooling and swap fees  
+🔹 **Onchain Games & DEXs** – Real-time token trading engines (Uniswap, PancakeSwap forks)  
+🔹 **Staking Platforms** – Flexible, locked, and boosted staking contracts with governance integration  
+🔹 **Sniper Bots & Bridge Tools** – Jito/Solana bundle bots, sandwich protection, custom routing  
+🔹 **AI Integration** – LLM + blockchain hybrid apps with inference-based token rewards  
 
 ---
 
